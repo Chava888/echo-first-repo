@@ -1,6 +1,6 @@
 # My first repo!
 
-##Learning is great
+## Learning is great
 
 ### Yay for Echo class!
 
