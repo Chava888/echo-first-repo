@@ -10,3 +10,7 @@ Lunch items:
 - Fish
 - Tacos
 - Water
+
+
+*This is italics*
+**This is in bold**
