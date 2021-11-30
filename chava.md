@@ -5,3 +5,8 @@
 ### Yay for Echo class!
 
 Today is November 30, 2021. 
+
+Lunch items:
+- Fish
+- Tacos
+- Water
